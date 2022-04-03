@@ -11,3 +11,5 @@ print(f'TRIANGULO: {triangulo:.3f}\n'
       f'TRAPEZIO: {trapezio:.3f}\n'
       f'QUADRADO: {quadrado:.3f}\n'
       f'RETANGULO: {retangulo:.3f}')
+
+print("end")
